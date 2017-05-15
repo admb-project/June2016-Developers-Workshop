@@ -39,6 +39,7 @@ Participants are included in an [appendix](#appendix) to this document. Jim Iane
 The workshop was broadcast via the internet to allow for remote participation.
 
 <a name="agenda"/>
+
 Agenda
 ======
 
@@ -131,6 +132,7 @@ _Foundation Meeting and Conclusion_
 |4:00PM|**End**|
 
 <a name="presentations"/>
+
 Presentations
 =============
 
@@ -159,6 +161,7 @@ Matthew Supernaw's presentation [ATL and Higher-Order Reverse Mode AD](https://g
 Mollie Brooks's presentation [glmmTMB package for R](https://github.com/admb-project/June2016-Developers-Workshop/blob/master/presentations/glmmTMB.pdf)
 
 <a name="breakoutgroups"/>
+
 Breakout Group Topics
 =====================
 
@@ -194,6 +197,7 @@ Below is a list other interested topics that can be discussed after the workshop
 * glmmTMB publication planning (discussed later during ISEC)
 
 <a name="discussions"/>
+
 Discussions
 ===========
 
@@ -223,6 +227,7 @@ The draft website is at http://admb-project-org.admb-foundation.org/.
 Also, see breakout group discussions [Website Issues](#groupwebsiteissues).
 
 <a name="discussionbreakoutgroup"/>
+
 Breakout Groups
 ---------------
 
@@ -354,6 +359,7 @@ _Task_
   However, you will know that they would have been generated if “ustep” is less than one.
 
 <a name="admbfoundation"/>
+
 ADMB Foundation Meeting
 =======================
 
@@ -378,6 +384,7 @@ Elected new board member officers:
 * Secretary is Mollie Brooks.
 
 <a name="accomplishments"/>
+
 Accomplishments
 ===============
 
@@ -416,6 +423,7 @@ Kasper Kristensen and Anders Nielsen presentation outlines an [Example on joint 
 Rick Methot and Matthew Supernaw were in attendance.
 
 <a name="appendix"/>
+
 Appendix
 ========
 
@@ -425,6 +433,7 @@ Notes
 * Gavin Fay's workshop [notes](https://raw.githubusercontent.com/admb-project/June2016-Developers-Workshop/master/notes/GF_notes_20160620.txt).
 
 <a name="participants"/>
+
 Participants
 ------------
 
