@@ -182,7 +182,7 @@ Below is a list of topics discussed in the breakout groups:
 * [Website issues](#groupwebsiteissues)
 * [NUTS algorithm in ADMB](#nutsinadmb)
 
-Below is a list other interested topics that can be discussed after the workshop:
+Below is a list other interested topics that can be discussed for future workshops:
 
 * cppad_mixed
 * Non-normal RE (rotational Bayes)
@@ -391,6 +391,7 @@ Accomplishments
 One of the objectives of the workshop is to identify priorities for the projects which include tasks and potential new features.
 
 <a name="priorities"/>
+
 Priorities
 ----------
 
