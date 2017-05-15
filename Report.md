@@ -26,6 +26,7 @@ Contents
 ![alt text](images/DevWS6.png "Autodifferentiation is cool!")
 
 <a name="description"/>
+
 Description
 ===========
 
@@ -159,7 +160,7 @@ Mollie Brooks's presentation [glmmTMB package for R](https://github.com/admb-pro
 
 <a name="breakoutgroups"/>
 Breakout Group Topics
-======================
+=====================
 
 Breakout group topics were proposed. They were self-organized using a [document](https://docs.google.com/document/d/1b0jWcGYNh-jCcJdgx7m8DehWu44AS4jhNbi-205yTiY/edit) initiated by Mollie.
 
