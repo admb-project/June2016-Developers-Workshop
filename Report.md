@@ -413,7 +413,7 @@ Priorities
 Collaboration
 -------------
 
-Anders Nielsen urges to keep maintaining more than one tool for automatic differention.
+Anders Nielsen urges to keep maintaining more than one tool for automatic differentiation.
 
 <img src="http://cdn.collider.com/wp-content/uploads/2015/04/star-wars-7-force-awakens-r2d2-bb8-600x600.jpeg" width="150px" alt="Collaboration"/>
 
