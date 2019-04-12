@@ -31,7 +31,7 @@ Changes in University of Hawaii grant administration procedures have created add
 
 https://docs.google.com/document/d/1b0jWcGYNh-jCcJdgx7m8DehWu44AS4jhNbi-205yTiY/edit
 
-##Wordpress site
+## Wordpress site
 
 http://admb-project-org.admb-foundation.org/
 
@@ -40,7 +40,7 @@ http://admb-project-org.admb-foundation.org/
 _Monday, June 20_ __Opening and Instructional Videos__
 
 |Time|Activity|
-|:---|:-----------|:--------------------------------------------|
+|:---|:-----------|
 |9:00AM|Opening: revision and approval of agenda; assignment of repporteurs|
 |10:00AM|Arni Magnusson: ADMB-IDE, rolling out version 11.5, people willing to help out? Also, a quick review of TMB-IDE.|
 |11:00AM|Discussion|
@@ -53,7 +53,7 @@ _Monday, June 20_ __Opening and Instructional Videos__
 _Tuesday, June 21_ __Miscellaneous Topics__
 
 |Time|Activity|
-|:---|:-----------|:--------------------------------------------|
+|:---|:-----------|
 |9:00AM|Overview of R packages based on ADMB and TMB. Discuss potential new R package, `TMBextras`. Also write up (or find existing write-up?) description of how to create a user-level C++ library.|
 |10:00AM|Creation of Instructional videos - Chair Hans Skaug|
 |11:00AM|Split into breakout groups|
